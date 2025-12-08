@@ -1,4 +1,4 @@
-# 🧱 Edge Detection – Computer Vision Project
+# 🧱 Edge Detection – Computer Vision Project (Vishal Kumar Ojha- 23BHI10067)
 
 This project demonstrates multiple edge-detection techniques using **Streamlit**, **OpenCV**, and **PIL**.
 Upload an image and visualize different edge detection outputs instantly.
