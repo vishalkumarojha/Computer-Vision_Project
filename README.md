@@ -36,6 +36,11 @@ streamlit run app.py
 
 ```
 project/
+│── methods
+  │── Laplacian Edge Detection (PIL Kernel).py
+  │── PIL FIND_EDGES Filter.py
+  │── Sobel Operator (X, Y, XY).py
+  │── canny edge detection.py
 │── app.py
 │── requirements.txt
 │── .gitignore
